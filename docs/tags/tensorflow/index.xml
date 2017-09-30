@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tensorflow on caronl&#39;s blog</title>
-    <link>/tags/tensorflow/</link>
+    <link>https://caronl.github.io/blog/tags/tensorflow/</link>
     <description>Recent content in Tensorflow on caronl&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caronl.github.io/blog/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Digit Recognition - MNIST app</title>
-      <link>/2017/09/digit-recognition-mnist-app/</link>
+      <link>https://caronl.github.io/blog/2017/09/digit-recognition-mnist-app/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/09/digit-recognition-mnist-app/</guid>
+      <guid>https://caronl.github.io/blog/2017/09/digit-recognition-mnist-app/</guid>
       <description>&lt;p&gt;Check out this new app at &lt;a href=&#34;https://exhibit-a.shinyapps.io/mnist_app/&#34;&gt;exhibit-a.shinyapps.io/mnist_app&lt;/a&gt;.
 &lt;/p&gt;</description>
     </item>

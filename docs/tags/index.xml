@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Digit Recognition</title>
+      <link>/tags/digit-recognition/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/digit-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disqus</title>
       <link>/tags/disqus/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
@@ -120,6 +129,15 @@
     </item>
     
     <item>
+      <title>Keras</title>
+      <link>/tags/keras/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
       <link>/tags/markdown/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
@@ -197,6 +215,15 @@
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/tags/tensorflow/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tensorflow/</guid>
       <description></description>
     </item>
     

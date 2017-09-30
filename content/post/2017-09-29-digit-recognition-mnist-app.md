@@ -16,5 +16,5 @@ thumbnailImage: /img/thumbnail_mnist_app.PNG
 Check out this new app at [exhibit-a.shinyapps.io/mnist_app](https://exhibit-a.shinyapps.io/mnist_app/).
 <!--more-->
 
-![thumbnail_mnist_app](/img/thumbnail_mnist_app.png)
+![thumbnail_mnist_app](/img/thumbnail_mnist_app.PNG)
 

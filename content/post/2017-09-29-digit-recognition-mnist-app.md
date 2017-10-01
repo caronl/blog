@@ -10,7 +10,7 @@ tags:
   - keras
   - digit-recognition
 thumbnailImagePosition: left
-thumbnailImage: /blog/img/thumbnail_mnist_app.PNG
+thumbnailImage: img/thumbnail_mnist_app.PNG
 ---
 
 Check out this new app at [exhibit-a.shinyapps.io/mnist_app](https://exhibit-a.shinyapps.io/mnist_app/).
